@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Game",
+  "description": "A high-fidelity single-player and real-time multiplayer Ludo game with AI, local pass-and-play, and online lobby simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
